@@ -1,0 +1,8 @@
+[
+    {"name": "Dort", "last name": "Toizner", "email": "dor.toizner@e.braude.ac.il", "courses": ["Cloud Computing", "Compilation", "Advanced Web"], "Link": "https://github.com/ToiznerD"},
+    {"name": "Raz", "last name": "Ben-aharon", "email": "raz.ben.aharon@e.braude.ac.il", "courses": ["Cloud Computing", "Compilation", "Advanced Web"], "Link": "https://github.com/raz228822"},
+    {"name": "Amit", "last name": "Vinograd", "email": "Amit.Vinograd@e.braude.ac.il", "courses": ["Cloud Computing", "Compilation", "Data Mining"], "Link": "https://edition.cnn.com/2023/04/07/middleeast/israel-palestinian-hamas-conflict-escalation-explained-mime-intl/index.html"},
+    {"name": "Avner", "last name": "Ben-Shlomo", "email": "avner.ben.shlomo@e.braude.ac.il", "courses": ["Intro to AI", "Data Mining", "Advanced Web"], "Link": "https://f1tv.formula1.com/"},
+    {"name": "Omer", "last name": "Ben-Shimol", "email": "Omer.haim.ben.shimol@e.braude.ac.il", "courses": ["Probability", "Automata", "Physics"], "Link": "https://www.ynet.co.il/environment-science/article/bjohpgvbh?utm_source=taboola&utm_medium=referral&utm_content=internal"},
+    {"name": "Dor", "last name": "Filis", "email": "Dor.Filis@e.braude.ac.il", "courses": ["English", "Physics", "Compilation"], "Link": "https://www.uefa.com/uefachampionsleague/"}
+]
