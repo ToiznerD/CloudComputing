@@ -1,0 +1,74 @@
+body {
+  background-image: url("https://img.freepik.com/premium-photo/grunge-wood-panels-texture_174699-4.jpg");
+}
+
+h2 {
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
+  text-shadow: 2px 2px #000000;
+  color: #FFD700;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1  {
+  color: #FFD700;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 5em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff00de, 0 0 30px #ff00de, 0 0 40px #ff00de, 0 0 55px #ff00de;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+#loading-bar {
+      width: 200px;
+      height: 20px;
+      background-color: #eee;
+      border-radius: 5px;
+      margin: 50px auto;
+      position: relative;
+    }
+#loading-progress {
+      width: 0%;
+      height: 100%;
+      background-color: #06c;
+      border-radius: 5px;
+      position: absolute;
+      top: 0;
+      left: 0;
+      transition: width 1s ease-in-out;
+    }
+
+h3
+   {
+    color: green ;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    text-shadow: 2px 2px #000000;
+    margin-top: 50px;
+  }
+h4
+  {
+    color: red;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    text-shadow: 2px 2px #000000;
+    text-align: center;
+    margin-top: 50px;
+
+  }
+h5
+  {
+  color: green;
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  text-shadow: 2px 2px #000000;
+  margin-top: 50px;
+  }
