@@ -2,7 +2,7 @@ body {
   background-image: url("https://img.freepik.com/premium-photo/grunge-wood-panels-texture_174699-4.jpg");
 }
 
-h2 {
+h2, .h2 {
   font-weight: bold;
   font-style: italic;
   font-family: 'Pacifico', cursive;
@@ -10,10 +10,10 @@ h2 {
   text-shadow: 2px 2px #000000;
   color: #FFD700;
   text-align: center;
-  margin-top: 50px;
+  margin: 20px auto;
 }
 
-h1  {
+h1 , .h1 {
   color: #FFD700;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
@@ -53,17 +53,17 @@ h3
     text-shadow: 2px 2px #000000;
     margin-top: 50px;
   }
-h4
+h4, .h4
   {
     color: red;
     font-family: 'Pacifico', cursive;
     font-size: 50px;
     text-shadow: 2px 2px #000000;
-    text-align: center;
+
     margin-top: 50px;
 
   }
-h5
+h5, .h5
   {
   color: green;
   text-align: center;
@@ -72,3 +72,63 @@ h5
   text-shadow: 2px 2px #000000;
   margin-top: 50px;
   }
+
+.button {
+  background-color: #ffd900;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+  text-shadow: 1px 1px #000000;
+  color: #927c00;
+  text-align: center;
+  border-radius: 5px;
+  word-wrap: break-word;
+  white-space: normal;
+  display: inline-block;
+}
+
+.button:hover{
+  background-color: #c2a500;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+  text-shadow: 1px 1px #000000;
+  color: #927c00;
+  text-align: center;
+  border-radius: 5px;
+  word-wrap: break-word;
+  white-space: normal;
+  display: inline-block;
+}
+
+.correctAnswer{
+  background-color: #00ff11;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+  text-shadow: 1px 1px #000000;
+  color: #927c00;
+  text-align: center;
+  border-radius: 5px;
+  word-wrap: break-word;
+  white-space: normal;
+  display: inline-block;
+}
+
+.wrongAnswer{
+  background-color: #cb3300;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+  text-shadow: 1px 1px #000000;
+  color: #927c00;
+  text-align: center;
+  border-radius: 5px;
+  word-wrap: break-word;
+  white-space: normal;
+  display: inline-block;
+}
