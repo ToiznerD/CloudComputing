@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://img.freepik.com/premium-photo/grunge-wood-panels-texture_174699-4.jpg");
+  background-color: #032f40;
 }
 
 h2, .h2 {
@@ -12,6 +12,12 @@ h2, .h2 {
   text-align: center;
   margin: 20px auto;
 }
+
+.center-image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 
 h1 , .h1 {
   color: #FFD700;
@@ -44,14 +50,14 @@ h1 , .h1 {
       transition: width 1s ease-in-out;
     }
 
-h3
+.h6
    {
-    color: green ;
+    color: #FFD700 ;
     text-align: center;
     font-family: 'Pacifico', cursive;
     font-size: 50px;
     text-shadow: 2px 2px #000000;
-    margin-top: 50px;
+    margin: 50px auto;
   }
 h4, .h4
   {
@@ -131,4 +137,14 @@ h5, .h5
   word-wrap: break-word;
   white-space: normal;
   display: inline-block;
+}
+
+.login {
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+  text-shadow: 2px 2px #000000;
+  color: #FFD700;
+  text-align: center;
 }
